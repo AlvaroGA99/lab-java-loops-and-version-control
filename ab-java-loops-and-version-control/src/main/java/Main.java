@@ -1,7 +1,7 @@
 public class Main {
 
     private static final int x = 2;
-    private static final int y = 3;
+    private static final int y = 5;
 
     public static void main(String[] args) {
 
